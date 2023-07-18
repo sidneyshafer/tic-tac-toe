@@ -2,8 +2,6 @@
 A simple C# console application for playing Tic-Tac-Toe.
 
 ## Starting Output:
-A tic-tac-toe board ready to play.
-
 ![image](https://github.com/sidneyshafer/tic-tac-toe/assets/66838571/bf49ebe1-a516-4c59-8386-a22184e7e5bb)
 
 ## Player 1's Turn:
