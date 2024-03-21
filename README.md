@@ -1,5 +1,5 @@
 # Tic-Tac-Toe
-A simple C# console application for playing Tic-Tac-Toe.
+A console application built with C# to play Tic-Tac-Toe.
 
 ## Starting Output:
 ![image](https://github.com/sidneyshafer/tic-tac-toe/assets/66838571/bf49ebe1-a516-4c59-8386-a22184e7e5bb)
